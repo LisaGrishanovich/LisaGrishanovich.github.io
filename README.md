@@ -1,2 +1,2 @@
-# LisaHryshanovich.github.io
+# LisaGryshanovichessay.github.io
 Реферат по дисциплине "Основы информационных технологий"
